@@ -16,8 +16,9 @@
     "theme": "ace/theme/atom_dark"
   },
   "exampleFiles": [
-    "simpleTripping.yaml",
-    "simpleBook.yaml"    
+    "simpleTrippin.yaml",
+    "simpleBook.yaml",
+    "default.yaml"
   ],
   "autocompleteExtension": {},
   "useBackendForStorage": false,
